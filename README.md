@@ -66,7 +66,7 @@
 ### Steps:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/GeminiProjects/AI-Project-Suite.git
+   git clone https://github.com/Gemini-Projects/AI-Project-Suite.git
    cd AI-Project-Suite
    ```
 2. Install dependencies:
