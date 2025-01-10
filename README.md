@@ -106,7 +106,6 @@
 - **AI-Powered**: Leverages Google Gemini Pro for advanced image, text, and query processing.
 - **Streamlit Interface**: Provides an intuitive, web-based interface for interacting with AI models.
 - **Modular Design**: Each project can run independently.
-- 
 ---
 
 ## Contact
